@@ -52,7 +52,7 @@ FileStructure/
 
 ## Example Screenshots
 ### Main Menu
-![Main Menu](assets/Menu.png)
+![Main Menu](https://github.com/VarshaVenky/file-structure-project/blob/master/assets/images/Menu.png)
 
 ### Record Insertion
 ![Record Insertion](assets/Insertion_of_a_record.png)
