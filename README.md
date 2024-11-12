@@ -65,4 +65,4 @@ FileStructure/
 - **Varsha V.** - [varshavenkatesh3798@gmail.com](mailto:varshavenkatesh3798@gmail.com)
 
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+This project is licensed under the MIT License. See the `LICENSE`![LICENSE](https://github.com/VarshaVenky/file-structure-project/blob/master/LICENSE.txt) file for more details.
